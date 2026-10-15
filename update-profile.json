@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "manifest_url": "https://raw.githubusercontent.com/kunqin122-source/LiveCaption-Releases/main/canary.json",
+  "public_key": "zJpRGFgefMEluBZjV3JGcC4ho7XtpneE9doH0B_lmog",
+  "allowed_hosts": [
+    "raw.githubusercontent.com",
+    "github.com"
+  ],
+  "channel": "canary"
+}
